@@ -62,8 +62,13 @@ CGTN拉丁美洲,http://livees.cgtn.com/1000e/prog_index.m3u8?zshijd
 港澳频道,#genre#	
 凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
 凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
-凤凰香港,http://jylt.jdshipin.com:808/hls/81/index.m3u8#http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
+凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
+凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
+凤凰香港,http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
+凤凰香港,http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
+凤凰香港,http://jylt.jdshipin.com:808/hls/81/index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港国际财经台,http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
 J2,http://162.19.247.76:22222/live/tvbj2/index.m3u8#https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 翡翠台,http://r.jdshipin.com/n90gt#http://162.19.247.76:22222/live/tvbfc/index.m3u8
@@ -91,8 +96,28 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8#http://38.6
 创世电视,https://cdn.deepcore.online/hlsme/ctv_hk_720.m3u8
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-其他频道,#genre#
-
+影视频道,#genre#
+都市剧场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
+黑莓电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8
+黑莓电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8
+黑莓电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225764/index.m3u8
+CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+CHC高清电影,http://222.132.191.125:9901/tsfile/live/1010_1.m3u8
+CHC高清电影,http://111.20.33.93/PLTV/88888893/224/3221226463/index.m3u8
+CHC高清电影,http://111.20.33.79/PLTV/88888893/224/3221226463/index.m3u8
+CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+CHC家庭影院,http://222.132.191.125:9901/tsfile/live/1008_1.m3u8
+CHC家庭影院,http://111.20.33.93/PLTV/88888893/224/3221226462/index.m3u8
+CHC家庭影院,http://111.20.33.79/PLTV/88888893/224/3221226462/index.m3u8
+CHC家庭影院,http://111.20.33.70/PLTV/88888893/224/3221226462/index.m3u8
+CHC家庭影院,http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8
+CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+CHC动作电影,http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8
+CHC动作电影,http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8
+CHC动作电影,http://111.20.33.79/wh7f454c46tw2676886234_1042025358/PLTV/88888893/224/3221226465/index.m3u8
+CHC动作电影,http://111.20.33.93/wh7f454c46tw66682855_961085433/PLTV/88888893/224/3221226465/index.m3u8
+CHC动作电影,http://111.20.33.70/PLTV/88888893/224/3221226465/index.m3u8
+星光影视,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 超清测试,#genre#
 CCTV-4K,http://113.207.84.197:8090/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
