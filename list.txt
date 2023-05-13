@@ -56,7 +56,8 @@ CGTN拉丁美洲,http://livees.cgtn.com/1000e/prog_index.m3u8?zshijd
 河南卫视,http://113.207.84.197:8090/__cl/cg:live/__c/henanHD/__op/default/__f/index.m3u8
 海南卫视,http://113.207.84.197:8090/__cl/cg:live/__c/hainanSD/__op/default/__f/index.m3u8
 贵州卫视,http://113.207.84.197:8090/__cl/cg:live/__c/guizhouHD/__op/default/__f/index.m3u8
-黑龙江卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8#http://113.207.84.197:8090/__cl/cg:live/__c/heilongjiangHD/__op/default/__f/index.m3u8
+黑龙江卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
+黑龙江卫视,http://113.207.84.197:8090/__cl/cg:live/__c/heilongjiangHD/__op/default/__f/index.m3u8
 内蒙古卫视,http://v2.91kds.cn/b9/hoge.m3u8?ip=nmtv&id=92&auth=rinimabi
 
 港澳频道,#genre#	
@@ -70,10 +71,13 @@ CGTN拉丁美洲,http://livees.cgtn.com/1000e/prog_index.m3u8?zshijd
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港国际财经台,http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
-J2,http://162.19.247.76:22222/live/tvbj2/index.m3u8#https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
+J2,http://162.19.247.76:22222/live/tvbj2/index.m3u8
+J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 翡翠台,http://r.jdshipin.com/n90gt#http://162.19.247.76:22222/live/tvbfc/index.m3u8
 明珠台,http://xjayrf.eatuo.com:9901/tsfile/live/1005_1.m3u8
-无线财经,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8#http://120.84.96.82:808/hls/86/index.m3u8#http://120.84.96.89:808/hls/86/index.m3u8
+无线财经,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
+无线财经,http://120.84.96.82:808/hls/86/index.m3u8
+无线财经,http://120.84.96.89:808/hls/86/index.m3u8
 有线新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u
 星空卫视,http://120.84.96.89:808/hls/79/index.m3u8
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
@@ -85,16 +89,23 @@ J2,http://162.19.247.76:22222/live/tvbj2/index.m3u8#https://p2.weizan.cn/1646497
 
 台湾频道,#genre#
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8#https://pulltv2.wanfudaluye.com/live/tv1.m3u8
-大爱2台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8#https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-东森电影,http://120.84.96.82:808/hls/32/index.m3u8#http://120.84.96.89:808/hls/32/index.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱1台,https://pulltv2.wanfudaluye.com/live/tv1.m3u8
+大爱2台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+大爱2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+东森电影,http://120.84.96.82:808/hls/32/index.m3u8
+东森电影,http://120.84.96.89:808/hls/32/index.m3u8
 东森洋片,http://120.84.96.82:808/hls/33/index.m3u8
-民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8#http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
+民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+台视新闻,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 生命电视台,http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
 创世电视,https://cdn.deepcore.online/hlsme/ctv_hk_720.m3u8
-金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 影视频道,#genre#
 都市剧场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
@@ -117,7 +128,7 @@ CHC动作电影,http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8
 CHC动作电影,http://111.20.33.79/wh7f454c46tw2676886234_1042025358/PLTV/88888893/224/3221226465/index.m3u8
 CHC动作电影,http://111.20.33.93/wh7f454c46tw66682855_961085433/PLTV/88888893/224/3221226465/index.m3u8
 CHC动作电影,http://111.20.33.70/PLTV/88888893/224/3221226465/index.m3u8
-星光影视,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 超清测试,#genre#
 CCTV-4K,http://113.207.84.197:8090/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
@@ -129,7 +140,8 @@ CCTV16-4K,http://113.207.84.197:8090/__cl/cg:live/__c/CCTV16_4K/__op/default/__f
 BesTV-4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 河南-4K,http://[2409:8087:4400:20:1:a0f:12:33]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
 苏州-4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-纯享4K,http://39.135.138.58:18890/PLTV/88888888/224/3221225786/index.m3u8#http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225786/index.m3u8
+纯享4K,http://39.135.138.58:18890/PLTV/88888888/224/3221225786/index.m3u8
+纯享4K,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225786/index.m3u8
 爱上4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 欢笑剧场4K,http://113.207.84.197:8090/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8
 CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
