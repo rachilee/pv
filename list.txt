@@ -25,7 +25,7 @@ CCTV9,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226031/1/index.m3u8
 CCTV10,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225685/1/index.m3u8?fmt=ts2hls
 CCTV11,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225746/1/index.m3u8?fmt=ts2hls
 CCTV12,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225747/1/index.m3u8?fmt=ts2hls
-CCTV13,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226314/1/index.m3u8?fmt=ts2hls
+CCTV1,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226314/1/index.m3u8?fmt=ts2hls
 CCTV13,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls
 CCTV14,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225727/1/index.m3u8?fmt=ts2hls
 CCTV15,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225749/1/index.m3u8?fmt=ts2hls
